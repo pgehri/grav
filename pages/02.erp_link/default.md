@@ -1,8 +1,7 @@
 ---
 title: 'to ERP'
 hide_git_sync_repo_link: false
-routes:
-    default: 'https://erp.gehringer.fr'
+routes: {  }
 ---
 
 ! Details on the full capabilities of Spectre.css can be found in the [Official Spectre Documentation](https://picturepan2.github.io/spectre/elements.html)
