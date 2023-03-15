@@ -1,7 +1,6 @@
 ---
 title: 'to ERP'
 hide_git_sync_repo_link: false
-redirect_default_route: false
 routes:
     default: 'https://erp.gehringer.fr'
 ---
