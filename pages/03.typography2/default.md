@@ -1,7 +1,8 @@
 ---
 title: 'Typography 2'
 hide_git_sync_repo_link: false
-published: false
+published: true
+body_classes: 'title-center title-h1h2'
 ---
 
 ! Details on the full capabilities of Spectre.css can be found in the [Official Spectre Documentation](https://picturepan2.github.io/spectre/elements.html)
