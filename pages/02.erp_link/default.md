@@ -1,5 +1,5 @@
 ---
-title: Typography
+title: 'to ERP'
 hide_git_sync_repo_link: false
 redirect: 'https://erp.gehringer.fr'
 ---
