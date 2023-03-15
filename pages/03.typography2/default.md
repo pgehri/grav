@@ -1,7 +1,8 @@
 ---
 title: 'Typography 2'
 hide_git_sync_repo_link: false
-published: true
+published: false
+body_classes: 'title-center title-h1h2'
 ---
 
 ! Details on the full capabilities of Spectre.css can be found in the [Official Spectre Documentation](https://picturepan2.github.io/spectre/elements.html)
@@ -154,3 +155,4 @@ The notices styles are actually provided by the `markdown-notices` plugin but ar
 
 !!!! This is a success notification
 ```
+
