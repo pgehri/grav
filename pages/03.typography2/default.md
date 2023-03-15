@@ -1,6 +1,7 @@
 ---
 title: 'Typography 2'
 hide_git_sync_repo_link: false
+published: false
 ---
 
 ! Details on the full capabilities of Spectre.css can be found in the [Official Spectre Documentation](https://picturepan2.github.io/spectre/elements.html)
