@@ -2,6 +2,7 @@
 title: 'Home 2'
 body_classes: 'title-center title-h1h2'
 hide_git_sync_repo_link: false
+published: false
 ---
 
 # Say Hello to Grav Philippe!
